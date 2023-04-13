@@ -15,3 +15,5 @@ Implementation of AES256 CBC with BearSSL
 To continue the project one day it would be necessary to:
 1. Use GMP library
 2. Use POSIX environement and use the syscall STAT
+
+This project donc use the standart PKCS, so a rest of bloc can be in plaintext
