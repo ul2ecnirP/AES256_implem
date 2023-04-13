@@ -11,3 +11,7 @@ Implementation of AES256 CBC with BearSSL
 | 2Go | 207048598 | ~20000 |
 
 ### Warning: this is a very tiny project from 2021, you can't use this on a file > 4294967295 Bytes (sizeof unsigned long)
+
+To continue the project one day it would be necessary to:
+1. Use GMP library
+2. Use POSIX environement and use the syscall STAT
