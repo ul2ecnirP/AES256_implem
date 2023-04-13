@@ -10,4 +10,4 @@ Implementation of AES256 CBC with BearSSL
 | 1Go | 103523776 | ~10000 |
 | 2Go | 207048598 | ~20000 |
 
-# Warning: this is a very tiny project from 2021, you can't use this on a file > 4294967295 Bytes (sizeof unsigned long)
+### Warning: this is a very tiny project from 2021, you can't use this on a file > 4294967295 Bytes (sizeof unsigned long)
